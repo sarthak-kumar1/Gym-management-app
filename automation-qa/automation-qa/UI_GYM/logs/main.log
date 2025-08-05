@@ -1,0 +1,1669 @@
+Dashboard displayed: false
+Dashboard displayed: {}
+Dashboard displayed: true
+Dashboard displayed: {}
+Dashboard displayed: false
+Dashboard displayed: true
+{"@timestamp":"2025-04-08T10:36:15.544Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.LoginStep"}
+{"@timestamp":"2025-04-08T10:37:39.060Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.LoginStep"}
+{"@timestamp":"2025-04-08T10:39:49.904Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.LoginStep"}
+{"@timestamp":"2025-04-08T11:04:53.956Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.LoginStep"}
+{"@timestamp":"2025-04-08T11:05:12.614Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.LoginStep"}
+{"@timestamp":"2025-04-16T10:02:18.762Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-16T10:03:24.234Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-16T10:59:54.576Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-16T11:36:38.789Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T06:28:02.202Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T06:29:30.835Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T06:36:48.015Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T06:39:34.496Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T06:40:52.033Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T06:58:07.849Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:00:17.628Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:07:59.143Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:09:43.925Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:15:54.175Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:20:44.699Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:20:48.914Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:24:29.853Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T07:24:39.808Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T10:19:11.649Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T10:19:22.164Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T10:50:48.268Z","ecs.version":"1.2.0","log.level":"INFO","message":"Expected Title: LET'S GET YOU STARTED!, Actual Title: Gym","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T10:51:09.173Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T10:57:49.520Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T10:58:10.738Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:01:55.420Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:02:16.268Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:04:40.564Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:08:55.585Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:09:32.545Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:09:40.301Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:10:25.303Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:10:32.996Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:11:38.337Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:11:45.971Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:12:31.003Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:12:52.125Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:16:57.409Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:17:29.143Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:17:47.659Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:18:18.497Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:25:51.396Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: false","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:26:15.177Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:26:47.514Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:27:11.191Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:33:22.298Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:33:45.252Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T11:37:05.778Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T12:24:44.235Z","ecs.version":"1.2.0","log.level":"INFO","message":"Dashboard displayed: true","process.thread.name":"main","log.logger":"org.epam.stepDefinition.RegisterStep"}
+{"@timestamp":"2025-04-17T12:50:28.609Z","ecs.version":"1.2.0","log.level":"INFO","message":"Error Message displayed: true","process.thread.name":"TestNG-PoolService-3","log.logger":"org.epam.stepDefinition.RegisterStep"}
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Dashboard displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Dashboard displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Dashboard displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Dashboard displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Dashboard displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Dashboard displayed: true
+Dashboard displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Dashboard displayed: true
+Dashboard displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Skipping malformed error message:  include uppercase
+Skipping malformed error message:  number
+Skipping malformed error message:  and special character
+Error Message displayed: false
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Skipping malformed error message:  include uppercase
+Skipping malformed error message:  number
+Skipping malformed error message:  and special character
+Error Message displayed: false
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Skipping malformed error message:  include uppercase
+Skipping malformed error message:  number
+Skipping malformed error message:  and special character
+Error Message displayed: false
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: false
+Pop-up message displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: false
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: false
+Error message displayed: true
+Error message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: false
+Error message displayed: false
+Error message displayed: false
+Error message displayed: false
+Pop-up message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Cancelled workout status displayed: true
+Cancelled workout status displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+HomePage displayed: false
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Error message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Pop-up message displayed: true
+Cancelled workout status displayed: true
+Cancelled workout status displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Error message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: false
+LoginPage displayed: true
+Error message displayed: false
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: false
+LoginPage displayed: true
+Pop-up message displayed: false
+LoginPage displayed: true
+Pop-up message displayed: false
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: false
+LoginPage displayed: true
+Error message displayed: false
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: false
+LoginPage displayed: true
+Pop-up message displayed: false
+LoginPage displayed: true
+Pop-up message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+HomePage displayed: false
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Workout booked successfully message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Email matches: true
+Designation matches: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Error message displayed: true
+Error message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+Pop-up message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+Cancelled workout status displayed: true
+LoginPage displayed: true
+WorkoutPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+Error Message displayed: false
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+Error Message displayed: true
+Error Message displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+LoginPage displayed: true
+RegisterPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+Login button displayed: true
+LoginPage displayed: true
+LoginPage displayed: true
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+[TestNG] Running:
+  C:\Users\safal_mehrotra\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
