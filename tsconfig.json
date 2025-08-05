@@ -1,0 +1,17 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" },
+    { "path": "./tsconfig.test.json" }
+  ],
+  "exclude": [
+    "**/*.test.tsx",
+    "**/*.spec.tsx",
+    "**/*.test.ts",
+    "**/*.spec.ts",
+    "tests",
+    "test",
+    "src/__tests__/**"
+  ]
+}
